@@ -19,3 +19,7 @@ nav { border: 2px solid rgb(129, 161, 255);
        
     }
 main p { border: 6px solid yellow}
+
+h3 { display: inline-block;
+     width: 30%;
+}
