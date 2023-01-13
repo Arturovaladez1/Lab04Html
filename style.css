@@ -1,13 +1,13 @@
 img {
     width: 450px;
-}
+    }
 header {
     Background-color: rgb(142, 223, 255);
     width: 700px;
     border: 10px solid rgb(237, 254, 130);
     Padding: 10px;
     
-}
+    }
 
 body {
     Background-color: rgb(224, 255, 248)
@@ -18,8 +18,9 @@ nav { border: 2px solid rgb(129, 161, 255);
         Height:50px;
        
     }
-main p { border: 6px solid yellow}
 
-h3 { display: inline-block;
-     width: 30%;
-}
+section { display: inline-block;
+        width: 20%;
+        background-color: rgb(205, 232, 255);
+        border: 2px ;
+    }
